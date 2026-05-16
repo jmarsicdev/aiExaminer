@@ -1,0 +1,13 @@
+PyQt6
+pytsk3
+SQLAlchemy
+torch
+transformers
+numpy
+opencv-python
+pandas
+scikit-learn
+Pillow
+timm
+sentencepiece
+protobuf

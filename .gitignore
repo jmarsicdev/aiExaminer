@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.coverage
+htmlcov/
+
+# Virtual environment
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Data / forensic images (large binaries)
+data/
+
+# Local Claude Code settings (machine-specific)
+.claude/
+
+# OS
+.DS_Store
